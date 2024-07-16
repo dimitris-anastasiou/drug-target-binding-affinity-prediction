@@ -244,7 +244,7 @@
     }
    ],
    "source": [
-    "data_frame = pd.read_csv(\"Drug-PI3K Data.csv\") \n",
+    "data_frame = pd.read_csv(\"drug_PI3K_data.csv\") \n",
     "data_frame"
    ]
   },
